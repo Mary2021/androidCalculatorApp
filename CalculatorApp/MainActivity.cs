@@ -32,6 +32,7 @@ namespace CalculatorApp
             divideButton = FindViewById<Button>(Resource.Id.divideButton);
             answerTextView = FindViewById<TextView>(Resource.Id.answerTextView);
             addButton.Click += addButton_Click;
+            multiplyButton.Click += multiplyButton_Click;
             subtractButton.Click += subtractButton_Click;
             divideButton.Click += divideButton_Click;
             addButton.Click += addButton_Click;

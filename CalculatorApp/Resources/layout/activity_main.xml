@@ -25,7 +25,7 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:id="@+id/linearLayout1"
-        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
         >
         <Button
             android:text="Liida"
@@ -54,6 +54,6 @@
         android:layout_height="wrap_content"
         android:id="@+id/answerTextView"
         android:textSize="30dp"
-        android:layout_gravity="center_horizontal" />
+        android:gravity="center_horizontal" />
 
 </LinearLayout>

@@ -1,7 +1,6 @@
 C:\Users\Mary\MobileApps\CalculatorApp\CalculatorApp\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
 C:\Users\Mary\MobileApps\CalculatorApp\CalculatorApp\obj\Debug\110\build.props
 C:\Users\Mary\MobileApps\CalculatorApp\CalculatorApp\obj\Debug\110\adb.props
-C:\Users\Mary\MobileApps\CalculatorApp\CalculatorApp\obj\Debug\110\CalculatorApp.csproj.AssemblyReference.cache
 C:\Users\Mary\MobileApps\CalculatorApp\CalculatorApp\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
 C:\Users\Mary\MobileApps\CalculatorApp\CalculatorApp\obj\Debug\110\res.flag
 C:\Users\Mary\MobileApps\CalculatorApp\CalculatorApp\obj\Debug\110\lp\38\jl\files.cache
@@ -303,3 +302,4 @@ C:\Users\Mary\MobileApps\CalculatorApp\CalculatorApp\obj\Debug\110\stamp\_Conver
 C:\Users\Mary\MobileApps\CalculatorApp\CalculatorApp\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Users\Mary\MobileApps\CalculatorApp\CalculatorApp\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Mary\MobileApps\CalculatorApp\CalculatorApp\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Mary\MobileApps\CalculatorApp\CalculatorApp\obj\Debug\110\CalculatorApp.csproj.AssemblyReference.cache
